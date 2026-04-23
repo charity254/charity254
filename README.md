@@ -1,28 +1,18 @@
-<!-- Typing animation header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Charity+Atieno;Full-Stack+Software+Engineer;Go+%7C+Python+%7C+React+%7C+PostgreSQL;I+build+things+end-to-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1D9E75&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Charity+Atieno;Full-Stack+Software+Engineer;Go+%7C+Python+%7C+React+%7C+PostgreSQL;I+build+things+end-to-end" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<!-- Social links as clean icon buttons -->
-<a href="mailto:atienocharity776@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/charity-atieno">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/charity254">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![Gmail](https://img.shields.io/badge/atienocharity776%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atienocharity776@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-charity--atieno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charity-atieno)
+[![GitHub](https://img.shields.io/badge/GitHub-charity254-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charity254)
 
 </div>
 
 ---
 
-## 👩🏾‍💻 About Me
+## About Me
 
 **Full-stack software engineer** who takes projects end-to-end — from database schema and backend logic to REST APIs, frontend UI, and live deployment. I write clean, layered, readable code and care about building things that actually work in production.
 
@@ -32,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -49,7 +39,7 @@
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=flat-square&logo=django&logoColor=white)
 ![gorilla/mux](https://img.shields.io/badge/gorilla%2Fmux-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20APIs-1D9E75?style=flat-square)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-1D9E75?style=flat-square)
 
 **Databases**
 
@@ -73,23 +63,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=charity254&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1D9E75&icon_color=378ADD&text_color=3d3d3a&bg_color=ffffff" alt="Charity's GitHub stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charity254&layout=compact&hide_border=true&title_color=1D9E75&text_color=3d3d3a&bg_color=ffffff&langs_count=6" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=charity254&show_icons=true&hide_border=true&count_private=true&title_color=1D9E75&icon_color=378ADD&text_color=555&bg_color=00000000" alt="Charity's GitHub stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charity254&layout=compact&hide_border=true&title_color=1D9E75&text_color=555&bg_color=00000000&langs_count=6" alt="Top languages"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charity254&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75&sideNums=378ADD&sideLabels=3d3d3a" alt="GitHub streak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charity254&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75&sideNums=378ADD&sideLabels=555" alt="GitHub streak"/>
+
 </div>
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
@@ -104,15 +96,12 @@
 
 <div align="center">
 
-**Let's build something great together**
+### Let's build something great together
+
+[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atienocharity776@gmail.com)
 
 <br/>
 
-<a href="mailto:atienocharity776@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-1D9E75?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch"/>
-</a>
-
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=charity254&style=flat-square&color=1D9E75&label=Profile+views" alt="Profile views"/>
+![Profile views](https://komarev.com/ghpvc/?username=charity254&style=flat-square&color=1D9E75&label=Profile+views)
 
 </div>
