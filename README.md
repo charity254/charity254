@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/atienocharity776%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atienocharity776@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-charity--atieno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charity-atieno)
-[![GitHub](https://img.shields.io/badge/GitHub-charity254-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charity254)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atienocharity776@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charity-atieno)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charity254)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-**Full-stack software engineer** who takes projects end-to-end — from database schema and backend logic to REST APIs, frontend UI, and live deployment. I write clean, layered, readable code and care about building things that actually work in production.
+**Full-stack software engineer** who takes projects end-to-end: from database schema and backend logic to REST APIs, frontend UI, and live deployment. I write clean, layered, readable code and care about building things that actually work in production.
 
 - 🎯 Strong across: **Go · Django · React · PostgreSQL · REST APIs · PWAs**
 - 🌍 Based in Kenya · Available for **remote & hybrid** roles worldwide
@@ -98,7 +98,9 @@
 
 ### Let's build something great together
 
-[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atienocharity776@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atienocharity776@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charity-atieno)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charity254)
 
 <br/>
 
