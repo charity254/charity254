@@ -16,7 +16,7 @@
 
 **Full-stack software engineer** who takes projects end-to-end: from database schema and backend logic to REST APIs, frontend UI, and live deployment. I write clean, layered, readable code and care about building things that actually work in production.
 
-- 🎯 Strong across: **Go · Django · React · PostgreSQL · REST APIs · PWAs**
+- 🎯 Strong across: **Javascript . Go · Python · React · PostgreSQL · REST APIs · PWAs**
 - 🌍 Based in Kenya · Available for **remote & hybrid** roles worldwide
 - 🤝 she/her
 
