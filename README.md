@@ -79,21 +79,6 @@
 
 </div>
 
----
-
-## Certifications
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| [Back-End Developer Capstone](https://coursera.org/verify/59QDELJZC7VU) | Meta via Coursera | 2024 |
-| [Django Web Framework](https://coursera.org/verify/4CE7FDSJ8WRF) | Meta via Coursera | 2024 |
-| [APIs](https://coursera.org/verify/L9MKHERLGANE) | Meta via Coursera | 2024 |
-| [Programming in Python](https://coursera.org/verify/ASYMCSY29VRB) | Meta via Coursera | 2024 |
-| [Intro to Databases for Back-End Dev](https://coursera.org/verify/869PQVGUQL2D) | Meta via Coursera | 2024 |
-| [HTML, CSS & JavaScript for Web Devs](https://coursera.org/verify/AKCSJCLNLB96) | Johns Hopkins via Coursera | 2024 |
-
----
-
 <div align="center">
 
 ### Let's build something great together
